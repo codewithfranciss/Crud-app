@@ -1,6 +1,9 @@
 <?php
 include 'db.php';
 
+header("Access-Control-Allow-Origin: *"); // Allow requests from any origin// Allow specific methods
+header("Access-Control-Allow-Headers: *");
+
 $data = json_decode(file_get_contents("php://input"));
 
 $id = $data->id;
