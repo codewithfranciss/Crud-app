@@ -35,3 +35,8 @@ A simple CRUD (Create, Read, Update, Delete) application built with PHP, MySQL, 
    ```bash
    git clone https://github.com/codewithfranciss/Crud-app.git
    cd your-repository
+
+   ## Demo
+
+![Crud Image](assets/screenshot.png)
+
