@@ -38,5 +38,5 @@ A simple CRUD (Create, Read, Update, Delete) application built with PHP, MySQL, 
 
    ## Demo
 
-![Crud Image](assets/screenshot.png)
+![Crud Image](/frontend/src/assets/screenshot.png)
 
